@@ -10,7 +10,7 @@ export default function Content() {
     }
 return (
     <div style={contentStyle}>
-        Hello5 {user}
+        Hello  {user}
     </div>
 )
 }
